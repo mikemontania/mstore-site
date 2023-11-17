@@ -1,48 +1,77 @@
 [
-    {
-        "titulo":"Polos",
-        "slug":"polos",
-        "id": "1000"
-    },
-    {
-        "titulo":"Poleras",
-        "slug":"poleras",
-        "id": "1001"
-    },
-    {
-        "titulo":"Joggers",
-        "slug":"joggers",
-        "id": "1004"
-    },
-    {
-        "titulo":"Shorts",
-        "slug":"shorts",
-        "id": "1005"
-    },
-    {
-        "titulo":"Camisas",
-        "slug":"camisas",
-        "id": "1002"
-    },
-    {
-        "titulo":"Casacas",
-        "slug":"casacas",
-        "id": "1006"
-    },
-    {
-        "titulo":"Tops",
-        "slug":"tops",
-        "id": "1007"
-    },
-    {
-        "titulo":"Accesorios",
-        "slug":"camisas",
-        "id": "1003"
-    },
-    {
-        "titulo":"Packs",
-        "slug":"packs",
-        "id": "1008"
-    }
-
+  {
+    "titulo": "Coco puro",
+    "slug": "coco-puro",
+    "id": 2
+  },
+  {
+    "titulo": "Jabón en polvo",
+    "slug": "jabon-en-polvo",
+    "id": 3
+  },
+  {
+    "titulo": "Suavizante",
+    "slug": "suavizante",
+    "id": 4
+  },
+  {
+    "titulo": "Desodorante",
+    "slug": "desodorante",
+    "id": 5
+  },
+  {
+    "titulo": "Detergente",
+    "slug": "detergente",
+    "id": 6
+  },
+  {
+    "titulo": "Lavandina",
+    "slug": "lavandina",
+    "id": 7
+  },
+  {
+    "titulo": "Tocador",
+    "slug": "tocador",
+    "id": 8
+  },
+  {
+    "titulo": "General",
+    "slug": "general",
+    "id": 1
+  },
+  {
+    "titulo": "Jabón prensado",
+    "slug": "jabon-prensado",
+    "id": 9
+  },
+  {
+    "titulo": "Jabón de lavar",
+    "slug": "jabon-de-lavar",
+    "id": 10
+  },
+  {
+    "titulo": "Bolsa",
+    "slug": "bolsa",
+    "id": 11
+  },
+  {
+    "titulo": "Trapo",
+    "slug": "trapo",
+    "id": 12
+  },
+  {
+    "titulo": "Otros servicios",
+    "slug": "otros-servicios",
+    "id": 13
+  },
+  {
+    "titulo": "Jabón en Liquido",
+    "slug": "jabon-en-liquido",
+    "id": 15
+  },
+  {
+    "titulo": "Limpiador",
+    "slug": "limpiador",
+    "id": 48
+  }
 ]
